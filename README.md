@@ -1,7 +1,9 @@
 # PnW-Offshore-tool
-Script For Politics and War game
-Tired of entering values manually to offshore your alliance stuff?Try this tool,you can offshore all the bank stuff to your offshore in just one click!
-To begin,follow these steps:-
+Script For Politics and War game.
+
+⚫Tired of entering values manually to offshore your alliance stuff?Try this tool,you can offshore all the bank stuff to your offshore in just one click!
+
+⚫To begin,follow these steps:-
 
 ⚫Save the offshore script file in a folder.
 
