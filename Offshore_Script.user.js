@@ -5,7 +5,7 @@
 // @description  Transaction to offshore made easy
 // @author       Preacher
 // @match        https://politicsandwar.com/alliance/id=*Your alliance id here*&display=bank
-// @icon         https://politicsandwar.com/img/logo.png
+// @icon         https://pbs.twimg.com/profile_images/876630922547740672/dcqCkdZm_400x400.jpg
 // @grant        nil
 
 // ==/UserScript==
